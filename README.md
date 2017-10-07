@@ -11,3 +11,5 @@ By the end of this course you will be able to:
 
 __Requirements:__  
 There are no requirements for the course except a computer and an interest in making things!
+
+[Course Outline](https://github.com/ronanyeah/elm-course/blob/master/course-outline.md)
