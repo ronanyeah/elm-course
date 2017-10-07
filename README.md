@@ -1,18 +1,13 @@
-Learning outcomes:
+### Skibbereen Coder Dojo - Web App Development Course
 
-Week 1:
-- TEA, model view update, basic types,`beginnerProgram` on https://ellie-app.com, hello <name> exercise w/ input
-hw: look at elm examples page
+This will be a multi week course, every Monday, that will teach how to make websites and interactive web apps (such as Twitter or Facebook).
 
-Week 2:
-- Using elm-reactor locally, lists, shopping list exercise
-hw: flexbox defence, flex box froggy
+Traditional web development is done using HTML, CSS and JavaScript. However, we will be using a new language called [Elm](http://elm-lang.org/). It is a language that is growing in popularity and one that many people believe is easier to use (and learn!) than the traditional languages used in web development.
 
-Week 3:
-- full elm program, cmd msgs, random gif exercise
+By the end of this course you will be able to:
+- Build a web page, and make it look however you want
+- Build interactive web apps, with buttons and text inputs etc
+- Put what you make on the internet!
 
-Week 4:
-- custom type aliases, union types
-
-Week N:
-- `elm-make`, github, netlify
+__Requirements:__  
+There are no requirements for the course except a computer and an interest in making things!
