@@ -1,10 +1,10 @@
-### Skibbereen Coder Dojo - Web App Development Course
+### Skibbereen Coder Dojo - Website + Web App Development Course
 
-This will be a multi week course, every Monday, that will teach how to make websites and interactive web apps (such as Twitter or Facebook).
+This will be a multi week course, every Monday, that will teach how to make websites, and interactive web apps (such as Twitter or Facebook).
 
 Traditional web development is done using HTML, CSS and JavaScript. However, we will be using a new language called [Elm](http://elm-lang.org/). It is a language that is growing in popularity and one that many people believe is easier to use (and learn!) than the traditional languages used in web development.
 
-By the end of this course you will be able to:
+__By the end of this course you will be able to:__
 - Build a web page, and make it look however you want
 - Build interactive web apps, with buttons and text inputs etc
 - Put what you make on the internet!
